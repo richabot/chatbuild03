@@ -133,7 +133,7 @@
 // export default App;
 
 
-import React from "react"
+
 import { useState } from "react";
 import ChatBot from "react-simple-chatbot";
 
